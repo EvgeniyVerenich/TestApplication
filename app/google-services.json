@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "574404380970",
+    "project_id": "xonetesttask-cc2f6",
+    "storage_bucket": "xonetesttask-cc2f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574404380970:android:db2302aa6b44a4fd067653",
+        "android_client_info": {
+          "package_name": "com.project.testapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABXso03O-DwCdbmK1QZk-x7YYIb8ynPxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
